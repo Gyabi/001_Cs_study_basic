@@ -1,0 +1,16 @@
+C:\Users\buyuu\Desktop\programming\001_Cs_study_basic\Cs_study_basic\bin\Debug\net5.0\Cs_study_basic.exe
+C:\Users\buyuu\Desktop\programming\001_Cs_study_basic\Cs_study_basic\bin\Debug\net5.0\Cs_study_basic.deps.json
+C:\Users\buyuu\Desktop\programming\001_Cs_study_basic\Cs_study_basic\bin\Debug\net5.0\Cs_study_basic.runtimeconfig.json
+C:\Users\buyuu\Desktop\programming\001_Cs_study_basic\Cs_study_basic\bin\Debug\net5.0\Cs_study_basic.runtimeconfig.dev.json
+C:\Users\buyuu\Desktop\programming\001_Cs_study_basic\Cs_study_basic\bin\Debug\net5.0\Cs_study_basic.dll
+C:\Users\buyuu\Desktop\programming\001_Cs_study_basic\Cs_study_basic\bin\Debug\net5.0\ref\Cs_study_basic.dll
+C:\Users\buyuu\Desktop\programming\001_Cs_study_basic\Cs_study_basic\bin\Debug\net5.0\Cs_study_basic.pdb
+C:\Users\buyuu\Desktop\programming\001_Cs_study_basic\Cs_study_basic\obj\Debug\net5.0\Cs_study_basic.csprojAssemblyReference.cache
+C:\Users\buyuu\Desktop\programming\001_Cs_study_basic\Cs_study_basic\obj\Debug\net5.0\Cs_study_basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buyuu\Desktop\programming\001_Cs_study_basic\Cs_study_basic\obj\Debug\net5.0\Cs_study_basic.AssemblyInfoInputs.cache
+C:\Users\buyuu\Desktop\programming\001_Cs_study_basic\Cs_study_basic\obj\Debug\net5.0\Cs_study_basic.AssemblyInfo.cs
+C:\Users\buyuu\Desktop\programming\001_Cs_study_basic\Cs_study_basic\obj\Debug\net5.0\Cs_study_basic.csproj.CoreCompileInputs.cache
+C:\Users\buyuu\Desktop\programming\001_Cs_study_basic\Cs_study_basic\obj\Debug\net5.0\Cs_study_basic.dll
+C:\Users\buyuu\Desktop\programming\001_Cs_study_basic\Cs_study_basic\obj\Debug\net5.0\ref\Cs_study_basic.dll
+C:\Users\buyuu\Desktop\programming\001_Cs_study_basic\Cs_study_basic\obj\Debug\net5.0\Cs_study_basic.pdb
+C:\Users\buyuu\Desktop\programming\001_Cs_study_basic\Cs_study_basic\obj\Debug\net5.0\Cs_study_basic.genruntimeconfig.cache
