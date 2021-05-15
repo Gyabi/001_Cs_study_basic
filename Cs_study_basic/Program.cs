@@ -25,8 +25,6 @@ namespace Cs_study_basic
             if(!File.Exists(output_path)){
                 File.WriteAllLines(output_path, lst);
             }
-
-            // ブランチ1
             // ブランチ2
         }
     }
